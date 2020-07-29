@@ -1,3 +1,9 @@
+We are creating this into a Mintbean Hackathon Challenge. Today's Challenge is FORKING FROM TEJAS SHAH'S HACKATHON WINNING APP. 
+
+https://sites.google.com/mintbean.io/2020-07-29-language-hack/home?authuser=2
+
+https://github.com/shah-tejas/GithubApp
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
